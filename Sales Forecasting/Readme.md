@@ -102,4 +102,22 @@ GO
 ALTER TABLE [dbo].[OrdersReturns] CHECK CONSTRAINT [FK_OrdersReturns_Orders]
 GO
 
+## Code OverView
+
+
+- **MainForm_Load:** Initializes the form, loads years and states into ComboBoxes.
+- **LoadYears:** Loads distinct years from the Orders table into the `ComboBoxYears`.
+- **LoadStates:** Loads distinct states from the Orders table into the `ComboBoxStates`.
+- **AddForecastedSalesColumn:** Adds the `ForecastedSales` column to the `DataGridView`.
+- **ButtonQuerySales_Click:** Handles the `Query Sales` button click event and queries sales data for the selected year.
+- **QuerySales:** Queries total sales and sales by state for the selected year excluding returned orders.
+- **ButtonApplyPercentage_Click:** Handles the `Apply Percentage` button click event and applies the percentage increase for the selected state or for all States.
+- **ApplyPercentageIncreaseForState:** Calculates and displays forecasted sales for  all states.
+- **FilterDataByState:** Calculates and displays forecasted Saled for the selected state
+- **ButtonExportCSV_Click:** Handles the `Export to CSV` button click event and exports the forecasted data to a CSV file.
+- **ExportToCSV:** Exports the forecasted data to a CSV file using the `SaveFileDialog`.
+- **ButtonShowChart_Click:** Handles the `Show Chart` button click event and displays the sales data in a pie chart.
+- **ShowPieChart:** Displays the sales data in a pie chart.
+
+
 
