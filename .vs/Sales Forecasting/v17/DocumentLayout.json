@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ragini\\source\\repos\\Sales Forecasting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48E4E48F-0496-4EB3-8229-68D4CCE5DD58}|Sales Forecasting\\Sales Forecasting.vbproj|c:\\users\\ragini\\source\\repos\\sales forecasting\\sales forecasting\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{48E4E48F-0496-4EB3-8229-68D4CCE5DD58}|Sales Forecasting\\Sales Forecasting.vbproj|solutionrelative:sales forecasting\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E4E48F-0496-4EB3-8229-68D4CCE5DD58}|Sales Forecasting\\Sales Forecasting.vbproj|c:\\users\\ragini\\source\\repos\\sales forecasting\\sales forecasting\\salesforecast.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{48E4E48F-0496-4EB3-8229-68D4CCE5DD58}|Sales Forecasting\\Sales Forecasting.vbproj|solutionrelative:sales forecasting\\salesforecast.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E4E48F-0496-4EB3-8229-68D4CCE5DD58}|Sales Forecasting\\Sales Forecasting.vbproj|C:\\Users\\Ragini\\source\\repos\\Sales Forecasting\\sales forecasting\\salesforecast.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{48E4E48F-0496-4EB3-8229-68D4CCE5DD58}|Sales Forecasting\\Sales Forecasting.vbproj|solutionrelative:sales forecasting\\salesforecast.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E4E48F-0496-4EB3-8229-68D4CCE5DD58}|Sales Forecasting\\Sales Forecasting.vbproj|C:\\Users\\Ragini\\source\\repos\\Sales Forecasting\\sales forecasting\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{48E4E48F-0496-4EB3-8229-68D4CCE5DD58}|Sales Forecasting\\Sales Forecasting.vbproj|solutionrelative:sales forecasting\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalesForecast.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Ragini\\source\\repos\\Sales Forecasting\\Sales Forecasting\\SalesForecast.vb",
+              "RelativeDocumentMoniker": "Sales Forecasting\\SalesForecast.vb",
+              "ToolTip": "C:\\Users\\Ragini\\source\\repos\\Sales Forecasting\\Sales Forecasting\\SalesForecast.vb [Design]",
+              "RelativeToolTip": "Sales Forecasting\\SalesForecast.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-15T17:02:38.388Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Readme.md",
+              "DocumentMoniker": "C:\\Users\\Ragini\\source\\repos\\Sales Forecasting\\Sales Forecasting\\Readme.md",
+              "RelativeDocumentMoniker": "Sales Forecasting\\Readme.md",
+              "ToolTip": "C:\\Users\\Ragini\\source\\repos\\Sales Forecasting\\Sales Forecasting\\Readme.md",
+              "RelativeToolTip": "Sales Forecasting\\Readme.md",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-07-17T18:21:52.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Application.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\Ragini\\source\\repos\\Sales Forecasting\\Sales Forecasting\\My Project\\Application.Designer.vb",
+              "RelativeDocumentMoniker": "Sales Forecasting\\My Project\\Application.Designer.vb",
+              "ToolTip": "C:\\Users\\Ragini\\source\\repos\\Sales Forecasting\\Sales Forecasting\\My Project\\Application.Designer.vb",
+              "RelativeToolTip": "Sales Forecasting\\My Project\\Application.Designer.vb",
+              "ViewState": "AQIAABkAAAAAAAAAAAAiwCIAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-15T23:08:17.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalesForecast.vb",
+              "DocumentMoniker": "C:\\Users\\Ragini\\source\\repos\\Sales Forecasting\\Sales Forecasting\\SalesForecast.vb",
+              "RelativeDocumentMoniker": "Sales Forecasting\\SalesForecast.vb",
+              "ToolTip": "C:\\Users\\Ragini\\source\\repos\\Sales Forecasting\\Sales Forecasting\\SalesForecast.vb",
+              "RelativeToolTip": "Sales Forecasting\\SalesForecast.vb",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAGIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-15T23:03:50.437Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

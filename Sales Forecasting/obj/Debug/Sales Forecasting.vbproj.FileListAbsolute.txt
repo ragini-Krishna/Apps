@@ -1,0 +1,12 @@
+C:\Users\Ragini\source\repos\Sales Forecasting\Sales Forecasting\obj\Debug\Sales Forecasting.vbproj.AssemblyReference.cache
+C:\Users\Ragini\source\repos\Sales Forecasting\Sales Forecasting\obj\Debug\Sales_Forecasting.Resources.resources
+C:\Users\Ragini\source\repos\Sales Forecasting\Sales Forecasting\obj\Debug\Sales_Forecasting.SalesForecast.resources
+C:\Users\Ragini\source\repos\Sales Forecasting\Sales Forecasting\obj\Debug\Sales Forecasting.vbproj.GenerateResource.cache
+C:\Users\Ragini\source\repos\Sales Forecasting\Sales Forecasting\obj\Debug\Sales Forecasting.vbproj.CoreCompileInputs.cache
+C:\Users\Ragini\source\repos\Sales Forecasting\Sales Forecasting\bin\Debug\Sales Forecasting.exe.config
+C:\Users\Ragini\source\repos\Sales Forecasting\Sales Forecasting\bin\Debug\Sales Forecasting.exe
+C:\Users\Ragini\source\repos\Sales Forecasting\Sales Forecasting\bin\Debug\Sales Forecasting.pdb
+C:\Users\Ragini\source\repos\Sales Forecasting\Sales Forecasting\bin\Debug\Sales Forecasting.xml
+C:\Users\Ragini\source\repos\Sales Forecasting\Sales Forecasting\obj\Debug\Sales Forecasting.exe
+C:\Users\Ragini\source\repos\Sales Forecasting\Sales Forecasting\obj\Debug\Sales Forecasting.xml
+C:\Users\Ragini\source\repos\Sales Forecasting\Sales Forecasting\obj\Debug\Sales Forecasting.pdb
